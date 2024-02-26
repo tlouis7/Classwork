@@ -1,2 +1,2 @@
-# Ican do output!
-Print("My name is Thierry")
+# I can do output!
+print("My name is Thierry")
